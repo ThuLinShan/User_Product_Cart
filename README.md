@@ -6,9 +6,6 @@
 - 2 &nbsp; Change the ConnectionString according to your needs <br>
 - 3 &nbsp; update-database in your Package Manager Console <br>
 - 4 &nbsp; Now You can run the api application <br>
-- 5 &nbsp; In config folder, there is 'constant.php' file <br>
-- 6 &nbsp; Change the variables according to your setting. <br>
-- 7 &nbsp; Try to "http://localhost/DynamicWeb/" in your browser. <br>
 
 <h3>🛠 Tech Stacks</h3>
 
