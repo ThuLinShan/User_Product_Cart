@@ -1,5 +1,5 @@
 <h2>DotNet Core Api Project</h2>
-<h3>for Ecommerce style apis</h3>
+<h3>for Ecommerce style APIs</h3>
 <p>This project is guided and instructed by senior dotnet developers for training me.</p>
 
 - 1 &nbsp; Create a database with same name given in appsetting.json file <br>
