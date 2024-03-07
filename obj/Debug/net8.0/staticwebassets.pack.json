@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\thuli\\Documents\\Visual Studio 2022\\Projects\\User_Product_Cart\\wwwroot\\Exports\\2024-01-31-01-05-41.xlsx",
+      "PackagePath": "staticwebassets\\Exports\\2024-01-31-01-05-41.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\thuli\\Documents\\Visual Studio 2022\\Projects\\User_Product_Cart\\wwwroot\\Exports\\2024-01-31-11-43-16NameOnly.xlsx",
+      "PackagePath": "staticwebassets\\Exports\\2024-01-31-11-43-16NameOnly.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\thuli\\Documents\\Visual Studio 2022\\Projects\\User_Product_Cart\\wwwroot\\Exports\\2024-02-01-09-45-19NameOnly.xlsx",
+      "PackagePath": "staticwebassets\\Exports\\2024-02-01-09-45-19NameOnly.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\thuli\\Documents\\Visual Studio 2022\\Projects\\User_Product_Cart\\wwwroot\\Exports\\2024-02-09-09-23-03.xlsx",
+      "PackagePath": "staticwebassets\\Exports\\2024-02-09-09-23-03.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\thuli\\Documents\\Visual Studio 2022\\Projects\\User_Product_Cart\\wwwroot\\Uploads\\file",
+      "PackagePath": "staticwebassets\\Uploads"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.User_Product_Cart.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.User_Product_Cart.props",
+      "PackagePath": "build\\User_Product_Cart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.User_Product_Cart.props",
+      "PackagePath": "buildMultiTargeting\\User_Product_Cart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.User_Product_Cart.props",
+      "PackagePath": "buildTransitive\\User_Product_Cart.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
